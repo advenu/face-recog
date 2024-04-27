@@ -1,0 +1,7 @@
+temp
+training_data
+*.html
+test*
+*.clf
+**/__pycache__
+.venv
